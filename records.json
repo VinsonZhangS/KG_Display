@@ -1,0 +1,1514 @@
+﻿[
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "广州市天河区天河城东塔6楼",
+          "name": "0427广州天河城写字楼火灾"
+        }
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "消防队员赶赴现场灭火"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "广州市天河区天河城东塔6楼",
+              "name": "0427广州天河城写字楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 4,
+            "start": 34,
+            "end": 43,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "消防队员赶赴现场灭火"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "广州市天河区天河城东塔6楼",
+          "name": "0427广州天河城写字楼火灾"
+        }
+      },
+      "end": {
+        "identity": 42,
+        "labels": [
+          "Accident_Cause"
+        ],
+        "properties": {
+          "name": "发电机组冷却设备故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "广州市天河区天河城东塔6楼",
+              "name": "0427广州天河城写字楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 3,
+            "start": 34,
+            "end": 42,
+            "type": "accident_cause",
+            "properties": {}
+          },
+          "end": {
+            "identity": 42,
+            "labels": [
+              "Accident_Cause"
+            ],
+            "properties": {
+              "name": "发电机组冷却设备故障"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "广州市天河区天河城东塔6楼",
+          "name": "0427广州天河城写字楼火灾"
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Casualty_Number"
+        ],
+        "properties": {
+          "name": "0"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "广州市天河区天河城东塔6楼",
+              "name": "0427广州天河城写字楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 2,
+            "start": 34,
+            "end": 41,
+            "type": "casualty_number",
+            "properties": {}
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Casualty_Number"
+            ],
+            "properties": {
+              "name": "0"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "广州市天河区天河城东塔6楼",
+          "name": "0427广州天河城写字楼火灾"
+        }
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Province"
+        ],
+        "properties": {
+          "name": "广东"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "广州市天河区天河城东塔6楼",
+              "name": "0427广州天河城写字楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 1,
+            "start": 34,
+            "end": 14,
+            "type": "location_province",
+            "properties": {}
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Province"
+            ],
+            "properties": {
+              "name": "广东"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 34,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "广州市天河区天河城东塔6楼",
+          "name": "0427广州天河城写字楼火灾"
+        }
+      },
+      "end": {
+        "identity": 39,
+        "labels": [
+          "Time"
+        ],
+        "properties": {
+          "name": "201104271020"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 34,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "广州市天河区天河城东塔6楼",
+              "name": "0427广州天河城写字楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 0,
+            "start": 34,
+            "end": 39,
+            "type": "time",
+            "properties": {}
+          },
+          "end": {
+            "identity": 39,
+            "labels": [
+              "Time"
+            ],
+            "properties": {
+              "name": "201104271020"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+          "name": "1118长沙潇湘中路办公楼火灾"
+        }
+      },
+      "end": {
+        "identity": 43,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "消防队员赶赴现场灭火"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+              "name": "1118长沙潇湘中路办公楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 9,
+            "start": 35,
+            "end": 43,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 43,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "消防队员赶赴现场灭火"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+          "name": "1118长沙潇湘中路办公楼火灾"
+        }
+      },
+      "end": {
+        "identity": 47,
+        "labels": [
+          "Accident_Cause"
+        ],
+        "properties": {
+          "name": "unknown"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+              "name": "1118长沙潇湘中路办公楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 8,
+            "start": 35,
+            "end": 47,
+            "type": "accident_cause",
+            "properties": {}
+          },
+          "end": {
+            "identity": 47,
+            "labels": [
+              "Accident_Cause"
+            ],
+            "properties": {
+              "name": "unknown"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+          "name": "1118长沙潇湘中路办公楼火灾"
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Casualty_Number"
+        ],
+        "properties": {
+          "name": "0"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+              "name": "1118长沙潇湘中路办公楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 7,
+            "start": 35,
+            "end": 41,
+            "type": "casualty_number",
+            "properties": {}
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Casualty_Number"
+            ],
+            "properties": {
+              "name": "0"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+          "name": "1118长沙潇湘中路办公楼火灾"
+        }
+      },
+      "end": {
+        "identity": 13,
+        "labels": [
+          "Province"
+        ],
+        "properties": {
+          "name": "湖南"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+              "name": "1118长沙潇湘中路办公楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 6,
+            "start": 35,
+            "end": 13,
+            "type": "location_province",
+            "properties": {}
+          },
+          "end": {
+            "identity": 13,
+            "labels": [
+              "Province"
+            ],
+            "properties": {
+              "name": "湖南"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 35,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+          "name": "1118长沙潇湘中路办公楼火灾"
+        }
+      },
+      "end": {
+        "identity": 44,
+        "labels": [
+          "Time"
+        ],
+        "properties": {
+          "name": "202111181402"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 35,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "长沙市岳麓区潇湘中路328号4楼",
+              "name": "1118长沙潇湘中路办公楼火灾"
+            }
+          },
+          "relationship": {
+            "identity": 5,
+            "start": 35,
+            "end": 44,
+            "type": "time",
+            "properties": {}
+          },
+          "end": {
+            "identity": 44,
+            "labels": [
+              "Time"
+            ],
+            "properties": {
+              "name": "202111181402"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 56,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "实施桅杆拆除工程"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 17,
+            "start": 36,
+            "end": 56,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 56,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "实施桅杆拆除工程"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 55,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "安装阻尼器"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 16,
+            "start": 36,
+            "end": 55,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 55,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "安装阻尼器"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 54,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "大楼管理处广播通知楼内人员应急疏散并安排工作人员引导人员有序撤离"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 15,
+            "start": 36,
+            "end": 54,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 54,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "大楼管理处广播通知楼内人员应急疏散并安排工作人员引导人员有序撤离"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 53,
+        "labels": [
+          "Accident_Cause"
+        ],
+        "properties": {
+          "name": "大厦及桅杆动力特性的改变"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 14,
+            "start": 36,
+            "end": 53,
+            "type": "accident_cause",
+            "properties": {}
+          },
+          "end": {
+            "identity": 53,
+            "labels": [
+              "Accident_Cause"
+            ],
+            "properties": {
+              "name": "大厦及桅杆动力特性的改变"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 52,
+        "labels": [
+          "Accident_Cause"
+        ],
+        "properties": {
+          "name": "桅杆风致涡激共振"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 13,
+            "start": 36,
+            "end": 52,
+            "type": "accident_cause",
+            "properties": {}
+          },
+          "end": {
+            "identity": 52,
+            "labels": [
+              "Accident_Cause"
+            ],
+            "properties": {
+              "name": "桅杆风致涡激共振"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Casualty_Number"
+        ],
+        "properties": {
+          "name": "0"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 12,
+            "start": 36,
+            "end": 41,
+            "type": "casualty_number",
+            "properties": {}
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Casualty_Number"
+            ],
+            "properties": {
+              "name": "0"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 14,
+        "labels": [
+          "Province"
+        ],
+        "properties": {
+          "name": "广东"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 11,
+            "start": 36,
+            "end": 14,
+            "type": "location_province",
+            "properties": {}
+          },
+          "end": {
+            "identity": 14,
+            "labels": [
+              "Province"
+            ],
+            "properties": {
+              "name": "广东"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 36,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "深圳市福田区赛格大厦",
+          "name": "0518深圳赛格大厦摇晃事件"
+        }
+      },
+      "end": {
+        "identity": 49,
+        "labels": [
+          "Time"
+        ],
+        "properties": {
+          "name": "202105181231"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 36,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "深圳市福田区赛格大厦",
+              "name": "0518深圳赛格大厦摇晃事件"
+            }
+          },
+          "relationship": {
+            "identity": 10,
+            "start": 36,
+            "end": 49,
+            "type": "time",
+            "properties": {}
+          },
+          "end": {
+            "identity": 49,
+            "labels": [
+              "Time"
+            ],
+            "properties": {
+              "name": "202105181231"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 37,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "义乌市稠江街道写字楼",
+          "name": "0617稠江街道写字楼群众被困电梯事件"
+        }
+      },
+      "end": {
+        "identity": 61,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "消防队员赶赴现场救出被困群众"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 37,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "义乌市稠江街道写字楼",
+              "name": "0617稠江街道写字楼群众被困电梯事件"
+            }
+          },
+          "relationship": {
+            "identity": 22,
+            "start": 37,
+            "end": 61,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 61,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "消防队员赶赴现场救出被困群众"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 37,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "义乌市稠江街道写字楼",
+          "name": "0617稠江街道写字楼群众被困电梯事件"
+        }
+      },
+      "end": {
+        "identity": 60,
+        "labels": [
+          "Accident_Cause"
+        ],
+        "properties": {
+          "name": "突然断电"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 37,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "义乌市稠江街道写字楼",
+              "name": "0617稠江街道写字楼群众被困电梯事件"
+            }
+          },
+          "relationship": {
+            "identity": 21,
+            "start": 37,
+            "end": 60,
+            "type": "accident_cause",
+            "properties": {}
+          },
+          "end": {
+            "identity": 60,
+            "labels": [
+              "Accident_Cause"
+            ],
+            "properties": {
+              "name": "突然断电"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 37,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "义乌市稠江街道写字楼",
+          "name": "0617稠江街道写字楼群众被困电梯事件"
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Casualty_Number"
+        ],
+        "properties": {
+          "name": "0"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 37,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "义乌市稠江街道写字楼",
+              "name": "0617稠江街道写字楼群众被困电梯事件"
+            }
+          },
+          "relationship": {
+            "identity": 20,
+            "start": 37,
+            "end": 41,
+            "type": "casualty_number",
+            "properties": {}
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Casualty_Number"
+            ],
+            "properties": {
+              "name": "0"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 37,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "义乌市稠江街道写字楼",
+          "name": "0617稠江街道写字楼群众被困电梯事件"
+        }
+      },
+      "end": {
+        "identity": 6,
+        "labels": [
+          "Province"
+        ],
+        "properties": {
+          "name": "浙江"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 37,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "义乌市稠江街道写字楼",
+              "name": "0617稠江街道写字楼群众被困电梯事件"
+            }
+          },
+          "relationship": {
+            "identity": 19,
+            "start": 37,
+            "end": 6,
+            "type": "location_province",
+            "properties": {}
+          },
+          "end": {
+            "identity": 6,
+            "labels": [
+              "Province"
+            ],
+            "properties": {
+              "name": "浙江"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 37,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "义乌市稠江街道写字楼",
+          "name": "0617稠江街道写字楼群众被困电梯事件"
+        }
+      },
+      "end": {
+        "identity": 57,
+        "labels": [
+          "Time"
+        ],
+        "properties": {
+          "name": "202006171205"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 37,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "义乌市稠江街道写字楼",
+              "name": "0617稠江街道写字楼群众被困电梯事件"
+            }
+          },
+          "relationship": {
+            "identity": 18,
+            "start": 37,
+            "end": 57,
+            "type": "time",
+            "properties": {}
+          },
+          "end": {
+            "identity": 57,
+            "labels": [
+              "Time"
+            ],
+            "properties": {
+              "name": "202006171205"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+          "name": "1127航兴国际广场写字楼持续停电事件"
+        }
+      },
+      "end": {
+        "identity": 66,
+        "labels": [
+          "Method"
+        ],
+        "properties": {
+          "name": "供电局维修人员赶赴现场维修"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+              "name": "1127航兴国际广场写字楼持续停电事件"
+            }
+          },
+          "relationship": {
+            "identity": 27,
+            "start": 38,
+            "end": 66,
+            "type": "solution_method",
+            "properties": {}
+          },
+          "end": {
+            "identity": 66,
+            "labels": [
+              "Method"
+            ],
+            "properties": {
+              "name": "供电局维修人员赶赴现场维修"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+          "name": "1127航兴国际广场写字楼持续停电事件"
+        }
+      },
+      "end": {
+        "identity": 65,
+        "labels": [
+          "Accident_Cause"
+        ],
+        "properties": {
+          "name": "电力设备开关站故障"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+              "name": "1127航兴国际广场写字楼持续停电事件"
+            }
+          },
+          "relationship": {
+            "identity": 26,
+            "start": 38,
+            "end": 65,
+            "type": "accident_cause",
+            "properties": {}
+          },
+          "end": {
+            "identity": 65,
+            "labels": [
+              "Accident_Cause"
+            ],
+            "properties": {
+              "name": "电力设备开关站故障"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+          "name": "1127航兴国际广场写字楼持续停电事件"
+        }
+      },
+      "end": {
+        "identity": 41,
+        "labels": [
+          "Casualty_Number"
+        ],
+        "properties": {
+          "name": "0"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+              "name": "1127航兴国际广场写字楼持续停电事件"
+            }
+          },
+          "relationship": {
+            "identity": 25,
+            "start": 38,
+            "end": 41,
+            "type": "casualty_number",
+            "properties": {}
+          },
+          "end": {
+            "identity": 41,
+            "labels": [
+              "Casualty_Number"
+            ],
+            "properties": {
+              "name": "0"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+          "name": "1127航兴国际广场写字楼持续停电事件"
+        }
+      },
+      "end": {
+        "identity": 16,
+        "labels": [
+          "Province"
+        ],
+        "properties": {
+          "name": "四川"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+              "name": "1127航兴国际广场写字楼持续停电事件"
+            }
+          },
+          "relationship": {
+            "identity": 24,
+            "start": 38,
+            "end": 16,
+            "type": "location_province",
+            "properties": {}
+          },
+          "end": {
+            "identity": 16,
+            "labels": [
+              "Province"
+            ],
+            "properties": {
+              "name": "四川"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  },
+  {
+    "p": {
+      "start": {
+        "identity": 38,
+        "labels": [
+          "Accident"
+        ],
+        "properties": {
+          "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+          "name": "1127航兴国际广场写字楼持续停电事件"
+        }
+      },
+      "end": {
+        "identity": 62,
+        "labels": [
+          "Time"
+        ],
+        "properties": {
+          "name": "201811260732"
+        }
+      },
+      "segments": [
+        {
+          "start": {
+            "identity": 38,
+            "labels": [
+              "Accident"
+            ],
+            "properties": {
+              "location_detail": "成都市高新区天府四街航兴国际广场写字楼",
+              "name": "1127航兴国际广场写字楼持续停电事件"
+            }
+          },
+          "relationship": {
+            "identity": 23,
+            "start": 38,
+            "end": 62,
+            "type": "time",
+            "properties": {}
+          },
+          "end": {
+            "identity": 62,
+            "labels": [
+              "Time"
+            ],
+            "properties": {
+              "name": "201811260732"
+            }
+          }
+        }
+      ],
+      "length": 1.0
+    }
+  }
+]

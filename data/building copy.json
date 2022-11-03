@@ -1,0 +1,99 @@
+{
+    "科大天工大厦": {
+        "locate_in": "北京",
+        "height": 80,
+        "English_name": "tiangongds",
+        "aboveground_floor": 21,
+        "underground_floor": 3,
+        "total_area":102294,
+        "covered_area": 26500,
+        "design_method": "框架剪力墙结构",
+        "building_type": "写字楼",
+        "room_temp":"26",
+        "people_hold":"6000"
+    },
+    "上海环球金融中心": {
+        "locate_in":"上海",
+        "English_name":"Shanghai World Financial Center",
+        "covered_area":14400,
+        "total_area":381600,
+        "aboveground_floor":101,
+        "underground_floor":3,
+        "height":492,
+        "constructed_in":"2008年8月29日",
+        "building_type": "写字楼",
+        "people_hold":"10000",
+        "room_temp": "26.5"
+    },
+    "北航唯实大厦":{
+        "locate_in":"北京",
+        "English_name":"Vision Hotel",
+        "alias":"北京唯实国际文化交流中心",
+        "aboveground_floor":22,
+        "underground_floor":3,
+        "covered_area":29649,
+        "total_area":73363,
+        "constructed_in":"2009年",
+        "building_type": "写字楼",
+        "people_hold":"5000",
+        "room_temp": "26.5"
+    },
+    "台北101大厦":{
+        "locate_in":"台湾",
+        "English_name":"Taipei 101 building",
+        "covered_area":30277,
+        "total_area":398000,
+        "aboveground_floor":101,
+        "underground_floor":5,
+        "height":508,
+        "constructed_in":"2004年12月31日",
+        "people_hold":"50000",
+        "room_temp":"26"
+    },
+    "山东大厦":{
+        "locate_in":"山东",
+        "English_name":"Jinan Shandong Hotel",
+        "total_area":130000,
+        "covered_area":100000,
+        "constructed_in":"2002年",
+        "people_hold":"20000",
+        "room_temp":"26",
+        "consist_of":["客房楼","会展中心","山东会堂"]
+    },
+    "客房楼":{
+        "locate_in":"山东",
+        "constructed_in":"2002年",
+        "room_temp":"26"
+    },
+    "会展中心":{
+        "locate_in": "山东",
+        "constructed_in":"2002年",
+        "room_temp":"26"
+    },
+    "山东会堂":{
+        "locate_in": "山东",
+        "constructed_in":"2002年",
+        "room_temp":"26"
+    },
+    "微软大厦":{
+        "locate_in":"北京",
+        "covered_area":6687,
+        "total_area":42432,
+        "room_temp":"26",
+        "people_hold":"5000"
+    },
+    "京汇大厦":{
+        "locate_in":"北京",
+        "total_area":40988,
+        "room_temp":"26",
+        "people_hold":"6000",
+        "aboveground_floor":28
+    },
+    "SOHO尚都":{
+        "locate_in":"北京",
+        "total_area":170000,
+        "covered_area":22000,
+        "room_temp":"26.5",
+        "people_hold":"10000"
+    }
+}
